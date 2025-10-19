@@ -1,0 +1,21 @@
+nuclei -u http://www.itsecgames.com -tags xss,sqli,rce -o nuclei_txt    
+
+                     __     _
+   ____  __  _______/ /__  (_)
+  / __ \/ / / / ___/ / _ \/ /
+ / / / / /_/ / /__/ /  __/ /
+/_/ /_/\__,_/\___/_/\___/_/   v3.4.10
+
+                projectdiscovery.io
+
+[WRN] Found 1 templates with syntax error (use -validate flag for further examination)
+[INF] Current nuclei version: v3.4.10 (latest)
+[INF] Current nuclei-templates version: v10.3.0 (latest)
+[INF] New templates added in latest release: 124
+[INF] Templates loaded for current scan: 2329
+[INF] Executing 1651 signed templates from projectdiscovery/nuclei-templates
+[WRN] Loading 678 unsigned templates for scan. Use with caution.
+[INF] Targets loaded for current scan: 1
+[INF] Templates clustered: 17 (Reduced 10 Requests)
+[INF] Using Interactsh Server: oast.me
+[INF] Scan completed in 16.202690062s. No results found.

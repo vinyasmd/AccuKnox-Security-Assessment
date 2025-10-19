@@ -1,0 +1,1 @@
+[1m[34mhttp://www.itsecgames.com[0m [200 OK] [1mApache[0m, [1mCountry[0m[[0m[22mNETHERLANDS[0m][[1m[31mNL[0m], [1mHTML5[0m, [1mHTTPServer[0m[[1m[36mApache[0m], [1mIP[0m[[0m[22m31.3.96.40[0m], [1mScript[0m, [1mTitle[0m[[1m[33mbWAPP, a buggy web application![0m]
